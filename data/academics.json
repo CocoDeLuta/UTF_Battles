@@ -1,0 +1,20 @@
+{
+    "academics": [
+        {
+            "id": 1,
+            "name": "Estudante de CC",
+            "weakness_id": 2,
+            "chance": 40,
+            "strength": 0.5,
+            "intelligence": 0.8
+        },
+        {
+            "id": 2,
+            "name": "Estudante de Direito",
+            "weakness_id": 1,
+            "chance": 20,
+            "strength": 0.5,
+            "intelligence": 0.5
+        }
+    ]
+}

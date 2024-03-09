@@ -1,0 +1,6 @@
+**/boneco** - Deixe o bot escolher um campeão para sua próxima partida no lol
+**/build** - O bot vai escolher uma build para sua próxima partida no lol, tudo pelo conteúdo
+**/catch** - Tenta capturar um academico selvagem
+**/register** - Registre-se no torneio de rinha de academicos
+**/rules** - Exibe as regras de como funciona o torneio
+**/salve** - É só um salve mesmo

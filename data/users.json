@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "academics": [
+                
+            ],
+            "points": 0
+        },
+        {
+            "name": "CocoDeLuta",
+            "id": 241371177619161089,
+            "academics": [
+
+            ],
+            "points": 0
+        }
+    ]
+}
