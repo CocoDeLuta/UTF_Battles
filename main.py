@@ -15,13 +15,12 @@ from pathlib import Path
 # Configurações iniciais
 # ------------------------------------------------------------------------------------
 
-# token do bot
-TOKEN = "MTIxMTQyMTc1MjQ0MjIyNDc1MA.GOC_LH.Z3Sffiu_-wumfGl0NwR-rRCEZWKNnTaKCfbHaM"
+
 PREFIX = "/"
 
 # id do servidor e do canal
-SERVER_ID = 1211431587603026012
-CHAANNEL_ID = 1211431588366258308
+SERVER_ID = 
+CHAANNEL_ID = 
 
 # path dos arquivos
 HELP = Path("data/help.txt")
